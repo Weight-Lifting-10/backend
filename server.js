@@ -16,9 +16,5 @@ server.use('/user', userRouter);
 server.get('/', (req, res) => {
     res.status(200).send({message: 'BW Workout Journal'});
   });
-  
-  // server.listen(3000, () =>
-  //   console.log('Server running on http://localhost:3000')
-  // );
 
 module.exports = server;
