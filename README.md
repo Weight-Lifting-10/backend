@@ -1,6 +1,7 @@
 # backend
 
 # Heroku Link
+https://weightlifting-journal.herokuapp.com/
 
 | Method | Endpoint            | Description                                                                           |
 |--------|---------------------|---------------------------------------------------------------------------------------|
